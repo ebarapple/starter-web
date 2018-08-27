@@ -6,7 +6,15 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## One more change
+
+Is this it?
+
 ## Blah Blah
+
+## Something I started working on
+
+Wow Bow Cow
 
 ## Deployment
 
