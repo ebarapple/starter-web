@@ -9,6 +9,7 @@ Eitan -- engineer - eitan.bar@gmail.com
 
 # THANKS
 
+Thanks to all my students
     <name>
 
 # TECHNOLOGY COLOPHON
