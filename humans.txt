@@ -3,6 +3,8 @@
 
 # TEAM
 
+Eitan -- engineer - eitan.bar@gmail.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
